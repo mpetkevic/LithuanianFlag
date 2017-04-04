@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Labas")
         print("Lietuva")
+        print(":)")
         // Do any additional setup after loading the view.
     }
 
